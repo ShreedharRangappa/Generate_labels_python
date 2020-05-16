@@ -14,5 +14,5 @@ Generates labels to be printed on a sticker of specific dimensions using mailmer
 # Sample Templet 6x9 labels
 
 * Sample Templet 6x9
-![Sample Templet 6x9](/Images/Sample_Templet_6x9.png)
-![Sample Result 6x9](/Images/Sample_Result_6x9.png)
+![Sample Templet 6x9](https://github.com/ShreedharRangappa/Generate_labels_python/blob/master/Images/Sample_Templet_6x9.PNG)
+![Sample Result 6x9](https://github.com/ShreedharRangappa/Generate_labels_python/blob/master/Images/Sample_Result_6x9.PNG)
