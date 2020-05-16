@@ -11,8 +11,9 @@ Generates labels to be printed on a sticker of specific dimensions using mailmer
 * MS word --> Insert tab --> Quick text --> Field --> MergeField --> Custome Label --> Save
 
 
-# Sample Templet 6x9 labels
+# Sample Templet 9x6 labels
 
-* Sample Templet 6x9 Dimension:23cmx29cm Intercell space:0.5cm Font:Calibri Size:12
-![Sample Templet 6x9](https://github.com/ShreedharRangappa/Generate_labels_python/blob/master/Images/Sample_Templet_6x9.PNG)
-![Sample Result 6x9](https://github.com/ShreedharRangappa/Generate_labels_python/blob/master/Images/Sample_Result_6x9.PNG)
+* Sample Templet 9x6 Dimension:23cmx29cm Intercell space:0.5cm Font:Calibri Size:12
+![Sample Templet 9x6](https://github.com/ShreedharRangappa/Generate_labels_python/blob/master/Images/Sample_Templet_9x6.PNG)
+* Sample Result 9x6 Dimension:23cmx29cm Intercell space:0.5cm Font:Calibri Size:12
+![Sample Result 9x6](https://github.com/ShreedharRangappa/Generate_labels_python/blob/master/Images/Sample_Result_9x6.PNG)
