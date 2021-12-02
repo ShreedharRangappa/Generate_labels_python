@@ -63,7 +63,8 @@ class Genetate_Printing_Labels_Custom():
         labels = []
         for i in range(self.args.total_labels_per_sheet):
             if i <= label_split:
-                labels.append(self.args.message + '-%d' % (i + count * self.args.total_labels_per_sheet))
+                # labels.append(self.args.message + '-%d' % (i + count * self.args.total_labels_per_sheet))
+                labels.append("  23/02/1988")
             else:
                 labels.append('')
 
